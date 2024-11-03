@@ -1,0 +1,15 @@
+{
+    "name": "NovaShader.Utility",
+    "versionDefines": [
+        {
+            "name": "jp.co.cyberagent.nova",
+            "expression": "2.0.0",
+            "define": "NOVA_SHADER_2_0_OR_NEWER"
+        },
+        {
+            "name": "jp.co.cyberagent.nova",
+            "expression": "2.4.0",
+            "define": "NOVA_SHADER_2_4_OR_NEWER"
+        }
+    ]
+}

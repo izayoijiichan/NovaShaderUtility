@@ -1,0 +1,26 @@
+{
+  "name": "com.izayoi.nova.shader.utility",
+  "displayName": "NOVA Shader Utility",
+  "description": "This package is utility scripts to get/set NOVA shader property values.",
+  "version": "2.4.0",
+  "type": "tool",
+  "category": "",
+  "keywords": [
+    "unity",
+    "NOVA",
+    "shader"
+  ],
+  "unity": "2022.3",
+  "author": {
+    "name" : "Izayoi Jiichan"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/izayoijiichan/NovaShaderUtility/tree/main/LICENSE.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izayoijiichan/NovaShaderUtility.git"
+  },
+  "dependencies": {}
+}
